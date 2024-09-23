@@ -5,6 +5,7 @@ import parcel_icon from './admin_assets/parcel_icon.png'
 import profile_image from './admin_assets/profile_image.png'
 import upload_area from './admin_assets/upload_area.png'
 
+export const url = "https://rich-meals-backend.onrender.com"
 export const assets = {
     add_icon,
     logo,
